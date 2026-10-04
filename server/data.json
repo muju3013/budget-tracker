@@ -1,0 +1,187 @@
+{
+  "transactions": [
+    {
+      "title": "muju",
+      "amount": 34,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-08-20",
+      "note": "",
+      "id": "tx-1787247545833"
+    },
+    {
+      "title": "Starbucks Morning Coffee",
+      "amount": 6.5,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-08-20",
+      "note": "",
+      "id": "tx-1787246884832"
+    },
+    {
+      "id": "tx-101",
+      "title": "TechCorp Salary Deposit",
+      "amount": 5400,
+      "category": "Salary",
+      "type": "income",
+      "date": "2026-08-01",
+      "note": "Monthly base compensation + performance bonus"
+    },
+    {
+      "id": "tx-102",
+      "title": "Whole Foods Market",
+      "amount": 184.5,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-08-03",
+      "note": "Weekly organic groceries & kitchen essentials"
+    },
+    {
+      "id": "tx-103",
+      "title": "City Power & Utilities",
+      "amount": 145.2,
+      "category": "Bills",
+      "type": "expense",
+      "date": "2026-08-04",
+      "note": "Monthly electricity and water service"
+    },
+    {
+      "id": "tx-104",
+      "title": "UI/UX Freelance Client",
+      "amount": 1250,
+      "category": "Freelance",
+      "type": "income",
+      "date": "2026-08-05",
+      "note": "Fintech Mobile App Prototype milestone 2"
+    },
+    {
+      "id": "tx-105",
+      "title": "Apple Store NYC",
+      "amount": 329,
+      "category": "Shopping",
+      "type": "expense",
+      "date": "2026-08-07",
+      "note": "AirPods Pro 2nd Gen & Magsafe charger"
+    },
+    {
+      "id": "tx-106",
+      "title": "Delta Air Lines",
+      "amount": 380,
+      "category": "Travel",
+      "type": "expense",
+      "date": "2026-08-09",
+      "note": "Roundtrip flight ticket for tech conference"
+    },
+    {
+      "id": "tx-107",
+      "title": "Trader Joe's Grocery",
+      "amount": 112.4,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-08-11",
+      "note": "Snacks, coffee beans, and fresh produce"
+    },
+    {
+      "id": "tx-108",
+      "title": "Netflix & Spotify Premium",
+      "amount": 28.99,
+      "category": "Entertainment",
+      "type": "expense",
+      "date": "2026-08-12",
+      "note": "Family plan monthly subscription auto-renew"
+    },
+    {
+      "id": "tx-109",
+      "title": "Apex Pharmacy & Health",
+      "amount": 85,
+      "category": "Health",
+      "type": "expense",
+      "date": "2026-08-14",
+      "note": "Prescription refills & vitamin supplements"
+    },
+    {
+      "id": "tx-110",
+      "title": "Uber Rides & Eats",
+      "amount": 64.3,
+      "category": "Travel",
+      "type": "expense",
+      "date": "2026-08-15",
+      "note": "Airport shuttle and evening ride home"
+    },
+    {
+      "id": "tx-111",
+      "title": "Starlight Bistro Dining",
+      "amount": 142.8,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-08-16",
+      "note": "Dinner celebration with engineering team"
+    },
+    {
+      "id": "tx-112",
+      "title": "Dividend Payout",
+      "amount": 310.5,
+      "category": "Investment",
+      "type": "income",
+      "date": "2026-08-17",
+      "note": "Quarterly index fund dividend return"
+    },
+    {
+      "id": "tx-113",
+      "title": "High-speed Fiber Internet",
+      "amount": 89.99,
+      "category": "Bills",
+      "type": "expense",
+      "date": "2026-08-18",
+      "note": "1 Gbps symmetrical connection"
+    },
+    {
+      "id": "tx-114",
+      "title": "Nike Outlet Apparel",
+      "amount": 165,
+      "category": "Shopping",
+      "type": "expense",
+      "date": "2026-08-19",
+      "note": "Running shoes & athletic clothing"
+    },
+    {
+      "id": "tx-115",
+      "title": "Sweetgreen Salad",
+      "amount": 22.5,
+      "category": "Food",
+      "type": "expense",
+      "date": "2026-08-20",
+      "note": "Quick healthy lunch"
+    }
+  ],
+  "budgets": [
+    {
+      "category": "Food",
+      "limit": 600
+    },
+    {
+      "category": "Shopping",
+      "limit": 450
+    },
+    {
+      "category": "Bills",
+      "limit": 700
+    },
+    {
+      "category": "Entertainment",
+      "limit": 300
+    },
+    {
+      "category": "Travel",
+      "limit": 500
+    },
+    {
+      "category": "Health",
+      "limit": 250
+    },
+    {
+      "category": "Other",
+      "limit": 200
+    }
+  ]
+}
